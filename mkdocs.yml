@@ -33,3 +33,7 @@ theme:
       accent: lime
 extra_css:
   - extra.css
+plugins:
+  - redirects:
+      redirect_maps:
+        index.md: /givepulse/welcome
