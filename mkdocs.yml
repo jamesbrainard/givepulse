@@ -1,4 +1,5 @@
 site_name: GivePulse Documentation
+site_url: 'https://jamesbrainard.github.io/givepulse/'
 nav:
   - Home: welcome.md
   - Students: students.md
