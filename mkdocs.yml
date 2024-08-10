@@ -3,7 +3,7 @@ site_url: 'https://jamesbrainard.github.io/givepulse/'
 nav:
   - Home: index.md
   - Students: students.md
-  - Registrants: registrants.md
+  - Event Managers: event_managers.md
   - Staff: staff.md
 theme: 
   name: material
