@@ -11,7 +11,7 @@ Viewing phone numbers for weekly service is more complicated than it seems - thi
 ![Admin Panel](Admin_Panel.png)
 4. Click on Registrants -> Manage Registrants
 ![Manage Registrants](Manage_Registrants.png)
-5. Clicking on the "Configure Layout" button will bring up a large list of data columns - scroll down until you find BOTH of the "Phone Number" options and select both of them.
+5. Clicking on the "Configure Layout" button will bring up a large list of data columns - scroll down until you find BOTH of the "Phone Number" options and select both of them. *Be sure to click apply!*
 ![Configure Layout](Configure_Layout.png)
 6. You should now be able to see a user's phone number when you scroll to the right!
 ![Phone Numbers](Phone_Numbers.png)
